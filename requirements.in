@@ -1,0 +1,8 @@
+pandas
+matplotlib
+python-dotenv
+jupyterlab
+streamlit
+requests
+blinker
+plotly
